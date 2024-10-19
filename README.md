@@ -7,7 +7,7 @@ The simulation-running routine should be in *simulation_manager.py*
 
 Core routines (*lsm.py*, *svm.py*, etc.) are located in `core/`
 
-Some analytical/side routines are currently located in `util/``
+Some analytical/side routines are currently located in `util/`
 
 *svmlinear.py* contains the scikit-learn linear svm routine.
 
